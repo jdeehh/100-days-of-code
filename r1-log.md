@@ -7,3 +7,6 @@ The log of my #100DaysOfCode challenge. Started on 6th April 2022
 Started a Metric/Imperial conversion app. Worked on the draft layout of the app, struggled with whether to code in Javascript or ReactJS for quicker conversion of input information.
 
 ### R1D2
+Day 2 #100DaysOfCode finished off the Unit converter app today, although I still need to do some refactoring to make it drier.
+
+### R1D3
