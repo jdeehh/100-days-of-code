@@ -10,3 +10,4 @@ Started a Metric/Imperial conversion app. Worked on the draft layout of the app,
 Day 2 #100DaysOfCode finished off the Unit converter app today, although I still need to do some refactoring to make it drier.
 
 ### R1D3
+Day 3 - Set up layout for Password Generator app and have added respository here - will add JS tomorrow
