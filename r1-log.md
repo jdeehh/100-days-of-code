@@ -12,5 +12,5 @@ Day 2 #100DaysOfCode finished off the Unit converter app today, although I still
 ### R1D3
 Day 3 - Set up layout for Password Generator app and have added respository here - will add JS tomorrow
 
-R1D4
+### R1D4
 Day 4 - Finished adding functionality to the Password Generator app with JS and have updated respository
