@@ -28,3 +28,6 @@ Day 6 - Plotted out the layout for the Invoice Creator and considered customisin
 
 ### R1D7
 Day 7 - Finished adding inital functionality of invoice creator as per Scrimba's specs, although just need to add functionality to the Remove button and center the element.
+
+### R1D7
+Day 8 - Pushed myself to get some coding in after a 19 hour day. I worked on adding some more functionality to the invoice creator. But I think I need to sleep and look at this again with fresh eyes in the morning.
