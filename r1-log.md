@@ -34,3 +34,6 @@ Day 8 - Pushed myself to get some coding in after a 19 hour day. I worked on add
 
 ### R1D9
 Day 9 - Invoice creator works...barely. I need to revisit this one at a later point to fix the Remove button and the mystery spacing on one of the div elements.
+
+### R1D10
+Day10 - Worked on setting up a layout for a Color Scheme generator using The Color API & began adding in some JS.
