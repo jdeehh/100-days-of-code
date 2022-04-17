@@ -37,3 +37,6 @@ Day 9 - Invoice creator works...barely. I need to revisit this one at a later po
 
 ### R1D10
 Day10 - Worked on setting up a layout for a Color Scheme generator using The Color API & began adding in some JS.
+
+### R1D11
+Day11 - Struggled quite a bit but finished the Color Scheme generator using The Color API. I will also need to do quite a bit of refactoring with this one.
