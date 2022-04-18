@@ -40,3 +40,7 @@ Day10 - Worked on setting up a layout for a Color Scheme generator using The Col
 
 ### R1D11
 Day11 - Struggled quite a bit but finished the Color Scheme generator using The Color API. I will also need to do quite a bit of refactoring with this one.
+
+### R1D12
+
+Day12 - Worked on Day 1 of Scrimbas Challenges and then started on Movie Watchlist solo project layout.
