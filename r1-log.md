@@ -44,3 +44,8 @@ Day11 - Struggled quite a bit but finished the Color Scheme generator using The 
 ### R1D12
 
 Day12 - Worked on Day 1 of Scrimbas Challenges and then started on Movie Watchlist solo project layout.
+
+### R1D13
+
+Day 13 -  Didn't have a tonne of time left in my day to work on the Movie Watchlist project today but I worked on the Day 2 Challenge of ScrimbaChallengeWeek
+
