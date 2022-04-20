@@ -49,3 +49,6 @@ Day12 - Worked on Day 1 of Scrimbas Challenges and then started on Movie Watchli
 
 Day 13 -  Didn't have a tonne of time left in my day to work on the Movie Watchlist project today but I worked on the Day 2 Challenge of ScrimbaChallengeWeek
 
+### R1D14
+
+Day 14 - Completed Scrimbas Day 3 challenge but really struggled today due to sickness & it took me way longer than I thought it would.
