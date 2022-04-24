@@ -52,3 +52,19 @@ Day 13 -  Didn't have a tonne of time left in my day to work on the Movie Watchl
 ### R1D14
 
 Day 14 - Completed Scrimbas Day 3 challenge but really struggled today due to sickness & it took me way longer than I thought it would.
+
+### R1D15
+
+Day 15 - Day 4 Scrimba Challenge - Climate Pledge Form
+
+### R1D16
+
+Day 16 - Day 5 Scrimba Challenge - Reusable Cup Savings
+
+### R1D17
+
+Day 17 - Added JS to Movie Watchlist but API fetch not working
+
+### R1D18
+
+Day 18 - Fixed bug and added more JS functionality - played with some CSS, tomorrow I need to hook up the functionality for the add to watchlist button and render the results to Watchlist page
