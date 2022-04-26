@@ -68,3 +68,11 @@ Day 17 - Added JS to Movie Watchlist but API fetch not working
 ### R1D18
 
 Day 18 - Fixed bug and added more JS functionality - played with some CSS, tomorrow I need to hook up the functionality for the add to watchlist button and render the results to Watchlist page
+
+
+### R1D19
+Day 19 - Finished Movie Watchlist project
+
+### R1D20
+Day 20 - Refactored some code in Movie Watchlist project, set up a CSS layout for a new React Digital Business Card project
+
