@@ -76,3 +76,6 @@ Day 19 - Finished Movie Watchlist project
 ### R1D20
 Day 20 - Refactored some code in Movie Watchlist project, set up a CSS layout for a new React Digital Business Card project
 
+### R1D21
+Day 21 - Made small edits to current digital business card project that will be built out in React.
+
