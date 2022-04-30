@@ -79,3 +79,8 @@ Day 20 - Refactored some code in Movie Watchlist project, set up a CSS layout fo
 ### R1D21
 Day 21 - Made small edits to current digital business card project that will be built out in React.
 
+### R1D22
+Day 22 - Rendered DBC project in React, need to add in links
+
+### R1D23
+Day 23 - Finished Digital Business Card Project
