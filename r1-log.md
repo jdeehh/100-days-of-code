@@ -84,3 +84,6 @@ Day 22 - Rendered DBC project in React, need to add in links
 
 ### R1D23
 Day 23 - Finished Digital Business Card Project
+
+### R1D24
+Day 24 -  set up new React Travel Journal project layout
