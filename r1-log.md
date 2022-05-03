@@ -87,3 +87,12 @@ Day 23 - Finished Digital Business Card Project
 
 ### R1D24
 Day 24 -  set up new React Travel Journal project layout
+
+### R1D25
+
+Day 25 - testing my memory whilst working with array.map() and props.
+
+### R1D26
+
+Day 26 - finished the initial set up of the Travel Journal project in React but I still want to add some extra features
+
