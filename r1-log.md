@@ -96,3 +96,23 @@ Day 25 - testing my memory whilst working with array.map() and props.
 
 Day 26 - finished the initial set up of the Travel Journal project in React but I still want to add some extra features
 
+### R1D27
+
+Day 27 - finished basic setup of React quiz game which will use the OpenTrivia API, more functionality tomorrow
+
+### R1D28
+
+Day 28 -
+
+### R1D29
+
+Day 29 -
+
+### R1D30
+
+Day 30 -
+
+### R1D31
+
+Day 31 -
+
