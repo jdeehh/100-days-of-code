@@ -102,7 +102,7 @@ Day 27 - finished basic setup of React quiz game which will use the OpenTrivia A
 
 ### R1D28
 
-Day 28 -
+Day 28 - trying to implement React Router components but I appear to have a bug!
 
 ### R1D29
 
