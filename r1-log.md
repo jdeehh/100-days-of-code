@@ -106,13 +106,13 @@ Day 28 - trying to implement React Router components but I appear to have a bug!
 
 ### R1D29
 
-Day 29 -
+Day 29 - Fixed bug, rendered questions but not from API fetch
 
 ### R1D30
 
-Day 30 -
+Day 30 - Fixed the CSS of the form, tried to figure out why API data was coming through encoded. Added components for checking answers but not currently working
 
 ### R1D31
 
-Day 31 -
+Day 31 - Got the API fetch and push to array working so that new questions load on refresh
 
